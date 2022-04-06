@@ -1,2 +1,2 @@
 # KAGGLE_NAVE_TITANIC
- Desafio com Python
+Desafio problema de classificação com python
